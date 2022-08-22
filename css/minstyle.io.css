@@ -4,7 +4,7 @@
 * Version : v2.0.1
 * Website : https://minstyle.io/
 */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@100;200;300;400;500;600;700;800;900&display=swap");
 :root {
   --main-bg: 255, 255, 255;
   --main-text-color: 25, 25, 25;
@@ -47,7 +47,7 @@ html,
 body {
   background-color: rgba(var(--main-bg), 1);
   color: rgba(var(--main-text-color), 1);
-  font-family: Inter, sans-serif;
+  font-family: Manrope, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
   margin: 0;
@@ -55,7 +55,7 @@ body {
 }
 
 p {
-  font-family: Inter, sans-serif;
+  font-family: Manrope, sans-serif;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
   line-height: 1.5em;
@@ -636,7 +636,7 @@ input[type="submit"] {
   border: none;
   border-radius: var(--default-border-radius);
   /* Font */
-  font-family: "Inter", sans-serif;
+  font-family: "Manrope", sans-serif;
   font-weight: 500;
   font-size: 0.92rem;
   text-align: center;
@@ -1356,7 +1356,7 @@ select {
   -webkit-box-shadow: none;
           box-shadow: none;
   /* Font */
-  font-family: Inter, sans-serif;
+  font-family: Manrope, sans-serif;
   color: rgba(var(--main-text-color), 1);
   font-size: 0.98rem;
   /* Background */
@@ -8144,7 +8144,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Inter, sans-serif;
+  font-family: Manrope, sans-serif;
   padding: 0;
 }
 
